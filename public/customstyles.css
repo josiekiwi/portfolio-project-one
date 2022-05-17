@@ -3,7 +3,12 @@ body {
     line-height: 1.8;
     font-family: 'dosis', sans-serif, 'fontawesome'!important;
     font-size: 15px;
-    background-color: #949AA6;
+    background-color: #1F1927;
+    background-image: url(images/woodgrain.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 
@@ -43,7 +48,8 @@ section {
 }
 
 .navbar {
-    background-color:#1F1927;
+    background: rgb(31,25,39);
+    background: linear-gradient(90deg, rgba(31,25,39,1) 29%, rgba(112,42,81,1) 52%, rgba(88,32,45,1) 90%);;
 }
 .navbar .nav-link {
     font-size: 12px;
@@ -88,6 +94,8 @@ section {
     background: cover;
     background-attachment: fixed;
     background-color: #702A51;
+    clip-path: polygon(0 47%, 100% 0, 100% 49%, 100% 100%, 0 100%, 20% 100%, 0 100%, 0 48%);
+    overflow: visible;
     display: flex;
     align-items: center;
     
@@ -96,7 +104,7 @@ section {
 #home h1 {
     font-weight: 500;
     font-size: 40px;
-    padding-top: 20px;
+    padding-top: 20px;;
 }
 
 #home p {
@@ -170,7 +178,7 @@ background-color: #1F1927;
 #portfolio {
     min-height: 100vh;
     background: cover;
-    background-color:#949AA6;
+    background-color:#702A51;
     color: white; 
     }
 
@@ -187,11 +195,11 @@ background-color: #1F1927;
         overflow: hidden;
     }
 
-    }
+    
  #experience {
         min-height: 100vh;
         background: cover;
-        background-color:#58202D;
+        background-color:#1F1927;
         clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 100%, 80% 100%, 20% 100%, 0 100%, 0% 20%);
     }
     
@@ -202,7 +210,7 @@ background-color: #1F1927;
 #education {
         min-height: 100vh;
         background: cover;
-        background-color:#383842; 
+        background-color:#1F1927; 
         clip-path: polygon(0 0, 100% 0, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
     }
 
@@ -288,6 +296,7 @@ background-color: #1F1927;
    }
 
    footer {
-   
+    background: rgb(31,25,39);
+    background: linear-gradient(90deg, rgba(31,25,39,1) 29%, rgba(112,42,81,1) 52%, rgba(88,32,45,1) 90%);
    }
     
