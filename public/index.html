@@ -314,34 +314,38 @@
       </section>
       <!--Contact Form-->
       <section id="contact" class="getintouch">
+        <form 
+        action="https://formspree.io/f/mdobbnlg"
+        method="POST">
         <div class="container">
           <h1 class="title p-3">Get In Touch</h1>
           <div class="contact-form row">
             <div class="form-field col-lg-6">
-              <input id="name" class="input-text" type="text" name="" placeholder="">
+              <input id="name" class="input-text" type="text" name="name" placeholder="">
               <label for="name" class="label">Name</label>
             </div>
             <div class="form-field col-lg-6">
-              <input id="email" class="input-text" type="email" name="" placeholder="">
+              <input id="email" class="input-text" type="email" name="email" placeholder="">
               <label for="email" class="label">Email</label>
             </div>
             <div class="form-field col-lg-6">
-              <input id="company" class="input-text" type="text" name="" placeholder="">
+              <input id="company" class="input-text" type="text" name="company" placeholder="">
               <label for="company" class="label">Company Name</label>
             </div>
             <div class="form-field col-lg-6">
-              <input id="phone" class="input-text" type="text" name="" placeholder="">
+              <input id="phone" class="input-text" type="number" name="phone" placeholder="">
               <label for="phone" class="label">Contact Number</label>
             </div>
             <div class="form-field col-lg-12">
-              <input id="message" class="input-text" type="text" name="" placeholder="">
+              <input id="message" class="input-text" type="text" name="message" placeholder="">
               <label for="message" class="label">Message</label>
             </div>
             <div class="form-field col-lg-12 text-center">
-              <input class="submit-btn" type="submit" value="submit" name="">
+              <input class="submit-btn" type="submit" value="submit" name="submit">
             </div>
           </div>
         </div>
+      </form>
 
 
 
@@ -361,7 +365,6 @@
      <script src="js/mdb.min.js"></script>
      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
      <script src="js/bootstrap.min.js"></script>
-
      </script>
    </body>
  </html>
