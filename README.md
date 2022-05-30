@@ -1,6 +1,6 @@
 # My Portfolio - Project One
 
---------------------------------------------------------
+#About
 
 For this project, I created a personal portfolio website. This website allows the user to instantly get a feel for the sort of website I can design for them, as well as being able to read a little about me, my experience and my background. 
 
@@ -10,26 +10,18 @@ The portfolio section (although currenltly using placeholders) gives users insta
 
 The contact form at the bottom is a quick and easy way for users to get in contact with me. 
 
+##Why this project?
+
 My website aims to firstly provide inspiration to potential clients and secondly to provide a promise that if they seek to collaborate with me, together we can create a simple but bold, user friendly and effective website.
 
-## UX
+#UX
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultricies congue dui, sed molestie est viverra vel. Quisque vestibulum arcu ex, non vehicula elit dictum nec. Aliquam sed ullamcorper nisi. Pellentesque ultrices erat a sem pretium viverra. Nam semper dignissim odio at interdum. Sed sit amet vulputate nisi. Duis rutrum nibh non turpis pellentesque bibendum.
+##Style Rationale 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultricies congue dui, sed molestie est viverra vel. Quisque vestibulum arcu ex, non vehicula elit dictum nec. Aliquam sed ullamcorper nisi. Pellentesque ultrices erat a sem pretium viverra. Nam semper dignissim odio at interdum. Sed sit amet vulputate nisi. Duis rutrum nibh non turpis pellentesque bibendum.
-
-### User Stories
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultricies congue dui, sed molestie est viverra vel. Quisque vestibulum arcu ex, non vehicula elit dictum nec. Aliquam sed ullamcorper nisi. Pellentesque ultrices erat a sem pretium viverra. Nam semper dignissim odio at interdum. Sed sit amet vulputate nisi. Duis rutrum nibh non turpis pellentesque bibendum.
-
-### Wireframes
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultricies congue dui, sed molestie est viverra vel. Quisque vestibulum arcu ex, non vehicula elit dictum nec. Aliquam sed ullamcorper nisi. Pellentesque ultrices erat a sem pretium viverra. Nam semper dignissim odio at interdum. Sed sit amet vulputate nisi. Duis rutrum nibh non turpis pellentesque bibendum.
-
-- [index.html (xl and sm)](https://github.com/)
+I wanted to create a website that was bold but also a little quirky (although not too outside of the box).
+To create a bold look, I used Adobe Color and searched for a "wine" color scheme which gave me the deep reds, greys and black. the slanted design, the gradient and the hover effect gave my website some personality and a bit of "me". Originally I wanted a light wood-grain background but settled for the darker color through trial and error. I believe the final product to be a clean, bold but professional look. 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultricies congue dui, sed molestie est viverra vel. Quisque vestibulum arcu ex, non vehicula elit dictum nec. Aliquam sed ullamcorper nisi. Pellentesque ultrices erat a sem pretium viverra. Nam semper dignissim odio at interdum. Sed sit amet vulputate nisi. Duis rutrum nibh non turpis pellentesque bibendum.
 
 ## Features
 
