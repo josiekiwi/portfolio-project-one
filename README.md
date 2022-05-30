@@ -45,17 +45,10 @@ To create a bold look, I used Adobe Color and searched for a "wine" color scheme
 
 ## Technologies Used
 
-- [**Balsamiq**]
-
-## Testing
-
-### Testing User Stories
-
-
-### Responsive Testing
-
-
-
+- **HTML5** - I used HTML5 for many of the basic foundations of my website
+- **Bootstrap** - Alongside HTML5, I used Bootstrap classes to create the elements such as cards and navigation bars and to utilise the bootstrap grid system 
+- **CSS3** - I used CSS3 alongside Bootstrap styles (and sometimes to override Bootstrap styles) to give the website a more personalised look
+- **Formspree** - I used the Formspree API from Formspree.io to get my contact form working
 
 
 ### HTML and CSS Validation
