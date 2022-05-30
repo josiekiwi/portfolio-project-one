@@ -19,6 +19,10 @@ h1, h2, h3, h4, h5 {
     font-size: 25px;
 }
 
+h6 {
+    font-size: 20px;
+}
+
 .title-sm {
     font-size: 20px;
     letter-spacing: 1px;
@@ -65,7 +69,7 @@ section {
 }
 
 .logo-text:hover {
-    color:rgb(130, 71, 138)!important;
+    color:rgb(218, 117, 231)!important;
     animation: shake 0.5s;
     animation-iteration-count: infinite;
 }
@@ -86,11 +90,11 @@ section {
 
 .navbar-light .navbar-nav .nav-link:hover {
     color: grey(47, 0, 255);
-    border-bottom: 0.5px solid rgba(128, 128, 128, 0.658);
+    border-bottom: 0.5px solid rgba(250, 248, 248, 0.658);
 }
 
 #home {
-    min-height: 70vh;
+    min-height: 80vh;
     background: cover;
     background-attachment: fixed;
     display: flex;
@@ -134,9 +138,18 @@ section {
     border-radius: 5px;
 }
 
-span i {
+
+
+
+a i {
    font-size: 30px!important;
+   color: white!important;
 }
+
+a i:hover{
+    color: rgb(236, 231, 231)!important;
+    
+ }
 
 #about {
     min-height: 80vh;
