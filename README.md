@@ -1,6 +1,6 @@
 # My Portfolio - Project One
 
-# About
+## About
 
 For this project, I created a personal portfolio website. This website allows the user to instantly get a feel for the sort of website I can design for them, as well as being able to read a little about me, my experience and my background. 
 
@@ -10,20 +10,20 @@ The portfolio section (although currenltly using placeholders) gives users insta
 
 The contact form at the bottom is a quick and easy way for users to get in contact with me. 
 
-## Why this project?
+### Why this project?
 
 My website aims to firstly provide inspiration to potential clients and secondly to provide a promise that if they seek to collaborate with me, together we can create a simple but bold, user friendly and effective website.
 
-# UX
+## UX
 
-## Style Rationale 
+### Style Rationale 
 
 I wanted to create a website that was bold but also a little quirky (although not too outside of the box).
 To create a bold look, I used Adobe Color and searched for a "wine" color scheme which gave me the deep reds, greys and black. the slanted design, the gradient and the hover effect gave my website some personality and a bit of "me". Originally I wanted a light wood-grain background but settled for the darker color through trial and error. I believe the final product to be a clean, bold but professional look. 
 
 
 
-## Features
+### Features
 
 ### Existing Features
 
