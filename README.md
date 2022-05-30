@@ -66,26 +66,7 @@ I used the [W3C CSS Validator tool](https://jigsaw.w3.org/css-validator/#validat
 I used Github Pages to deploy my website. The process was as follows:
 1. I created a branch called "gh-pages" 
 2. I merged this with the master branch 
+3. I went to the settings and activitated the gh-pages
 
-6. Copied the below code from GitHub into the terminal window in my Cloud9 workspace:
-
-    ```git remote add origin https://github.com/hebs87/monkees-milestone-project-one.git```
-
-    ```git push -u origin master```
-
-
-### Repository Link
-
-https:
-
-### Running Code Locally
-
-## Credits
-
-### Content
-
-
-### Media
-
-### Acknowledgements
+The gh-pages link: https://josiekiwi.github.io/portfolio-project-one/public/
 
