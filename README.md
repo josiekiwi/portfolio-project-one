@@ -22,35 +22,26 @@ I wanted to create a website that was bold but also a little quirky (although no
 To create a bold look, I used Adobe Color and searched for a "wine" color scheme which gave me the deep reds, greys and black. the slanted design, the gradient and the hover effect gave my website some personality and a bit of "me". Originally I wanted a light wood-grain background but settled for the darker color through trial and error. I believe the final product to be a clean, bold but professional look. 
 
 ### Features
-- **Navigation Bar** - I wanted to 
-
-### Existing Features
-
-#### All Pages
-
-- **click** - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultricies congue dui, sed molestie est viverra vel. Quisque vestibulum arcu ex, non vehicula elit dictum nec. Aliquam sed ullamcorper nisi. Pellentesque ultrices erat a sem pretium viverra. Nam semper dignissim odio at interdum. Sed sit amet vulputate nisi. Duis rutrum nibh non turpis pellentesque bibendum.
-#### All Pages (exluding index.html)
-
-
-#### band.html
-
-
-#### music.html
+- **Navigation Bar Logo** - The Logo to the left of theb navigation bar is simply to add a bit of interest to the website. This 'logo' has a hover effect and an animation to make it change colour and jump around 
+- **Navigation Bar Links** - The links are responsive and take you to the corresponding section. They have a simple hover effect of a white border bottom with a cursor change to allow the user to see clearly where they are clicking and also to let the user know to click the link
+- **Landing Page and "download resue" button** - The landing page is a simple picture with a shadow hover effect and a button to download a resume. The button also has an effect where it changes to a grey colour and the letter spacing increases. 
+- **About me section with social media links** - This section simply uses a bootstrap card and has social media links at the bottom which link the user to the corresponding social media platforms. The icons have a light colour change hover effect and the cursor changes to a pointer to alert the user that the icons are clickable
+- **My Skills Section** - This section is made with icons to outline the technologies I have learnt. 
+- **Portfolio Section** - This section is made with bootstrap cards and a shadow hover effect. The cards are clickable although at the moment they link to placeholder websites. 
+- **My Experience Section** - This section is made with bootstrap cards and outlines my previous experience
+- **My Education Section** - This section is made with bootstrap cards and outlines my previous experience
+- **Contact Form** - This contact form is responsive and allows the user to share their details and a message. The submit button has a hover effect where the border disappears and the button background turns grey
+- **Footer** - The footer has a simple copyright and is coloured with a gradient which matches the colour scheme of the website
 
 
-
-#### tickets.html
-
-
-#### contact.html
 
 
 
 ### Features Left to Implement
 
-Once I've learnt JavaScript and back-end web development, I will add further functionality to the existing features on my website.
+- **Mapbox** - I would like to add a mapbox so people know where I am based.
+- **Real portfolio links** - Once I have built up my portfolio I will replace the placeholder pictures/links with real websites
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultricies congue dui, sed molestie est viverra vel. Quisque vestibulum arcu ex, non vehicula elit dictum nec. Aliquam sed ullamcorper nisi. Pellentesque ultrices erat a sem pretium viverra. Nam semper dignissim odio at interdum. Sed sit amet vulputate nisi. Duis rutrum nibh non turpis pellentesque bibendum.
 
 ## Technologies Used
 
