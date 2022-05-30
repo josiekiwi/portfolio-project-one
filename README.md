@@ -1,8 +1,16 @@
 # My Portfolio - Project One
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultricies congue dui, sed molestie est viverra vel. Quisque vestibulum arcu ex, non vehicula elit dictum nec. Aliquam sed ullamcorper nisi. Pellentesque ultrices erat a sem pretium viverra. Nam semper dignissim odio at interdum. Sed sit amet vulputate nisi. Duis rutrum nibh non turpis pellentesque bibendum. **_bibendum._**. 
+--------------------------------------------------------
 
-bibendum.
+For this project, I created a personal portfolio website. This website allows the user to instantly get a feel for the sort of website I can design for them, as well as being able to read a little about me, my experience and my background. 
+
+In the website I have included a link to download my resume so that users can get to know me in a little more detail, as well as icons that link to my social media. 
+
+The portfolio section (although currenltly using placeholders) gives users instant access to other websites I have made and is a conversation starter.
+
+The contact form at the bottom is a quick and easy way for users to get in contact with me. 
+
+My website aims to firstly provide inspiration to potential clients and secondly to provide a promise that if they seek to collaborate with me, together we can create a simple but bold, user friendly and effective website.
 
 ## UX
 
