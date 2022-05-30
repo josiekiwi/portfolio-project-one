@@ -59,10 +59,13 @@ I used the [W3C CSS Validator tool](https://jigsaw.w3.org/css-validator/#validat
 
 ### Interesting Bugs or Problems
 
-- **Burger icon** - The burger icon wasn't appearing once the fullscreen overlay menu was triggered. The reason for this is that the header in which the burger icon was in had a lower z-index than the overlay menu. To fix the issue, I gave the header a higher z-index value than the overlay menu.
+- **Contact Form** - Interestingly, the contact form text turns first white and then black and I haven't worked out how to keep the text white. 
 
 ## Deployment
 
+I used Github Pages to deploy my website. The process was as follows:
+1. I created a branch called "gh-pages" 
+2. I merged this with the master branch 
 
 6. Copied the below code from GitHub into the terminal window in my Cloud9 workspace:
 
