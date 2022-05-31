@@ -79,9 +79,8 @@ The gh-pages link: https://josiekiwi.github.io/portfolio-project-one/public/
 - **Form Spree** - For thbe contact form API
 - **Unsplash** - For the background image found at www.unsplash.com
 - **Navigation Bar Tutorial** - For the navigation bar, inspiration was taken from https://www.youtube.com/watch?v=ZhTnOp-FpE0&t=617s 
-- **Clip path generator** - 
 - **Gradient Generator** - Gradient generator was used from https://cssgradient.io/
 - **Animation Generator** - Animation Generator was used from https://webcode.tools/generators/css/keyframe-animation
-- **Clip Path Generator** - clip path generator used from https://bennettfeely.com/clippy/
+- **Clip Path Generator** - Clip path generator used from https://bennettfeely.com/clippy/
 - **Contact Form Tutorial** - Inspiration for contact form taken from https://www.youtube.com/watch?v=s6rF1Josk9M
 
