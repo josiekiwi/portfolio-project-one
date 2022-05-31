@@ -6,10 +6,6 @@ body {
     font-size: 15px;
     background-color: #1F1927;
     background-image: url(images/woodgrain.jpg);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
 }
 
 
@@ -99,9 +95,7 @@ section {
     min-height: 80vh;
     background-attachment: fixed;
     display: flex;
-    align-items: center;
-    
-    
+    align-items: center;  
 }
 
 #home h1 {
