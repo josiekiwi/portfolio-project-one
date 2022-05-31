@@ -1,4 +1,5 @@
 
+/* Body image was taken from www.unspash.com */
 body {
     line-height: 1.8;
     font-family: 'dosis', sans-serif, 'fontawesome'!important;
@@ -50,10 +51,11 @@ section {
     padding-right: 70px;
     padding-left: 70px;
 }
-
+/* Inspiration from https://www.youtube.com/watch?v=ZhTnOp-FpE0&t=617s */
+/* Gradient generator was used from https://cssgradient.io/ */
 .navbar {
     background: rgb(31,25,39);
-    background: linear-gradient(90deg, rgba(31,25,39,1) 29%, rgba(112,42,81,1) 52%, rgba(88,32,45,1) 90%);;
+    background: linear-gradient(90deg, rgba(31,25,39,1) 29%, rgba(112,42,81,1) 52%, rgba(88,32,45,1) 90%);
 }
 .navbar .nav-link {
     font-size: 12px;
@@ -74,6 +76,7 @@ section {
     animation-iteration-count: infinite;
 }
 
+/*Animation Generator was used from https://webcode.tools/generators/css/keyframe-animation*/
 @keyframes shake {
     0% { transform: translate(1px, 1px) rotate(0deg); }
   10% { transform: translate(-1px, -2px) rotate(-1deg); }
@@ -89,13 +92,11 @@ section {
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
-    color: grey(47, 0, 255);
     border-bottom: 0.5px solid rgba(250, 248, 248, 0.658);
 }
 
 #home {
     min-height: 80vh;
-    background: cover;
     background-attachment: fixed;
     display: flex;
     align-items: center;
@@ -138,9 +139,6 @@ section {
     border-radius: 5px;
 }
 
-
-
-
 a i {
    font-size: 30px!important;
    color: white!important;
@@ -153,7 +151,6 @@ a i:hover{
 
 #about {
     min-height: 80vh;
-    background: cover;
     background-position: center;
     background-color: #58202D;
     clip-path: polygon(0 15%, 100% 0, 100% 100%, 0% 100%);
@@ -189,7 +186,6 @@ background-color: #1F1927;
 
 #portfolio {
     min-height: 100vh;
-    background: cover;
     background-color:#702A51;
     color: white; 
     }
@@ -208,9 +204,9 @@ background-color: #1F1927;
     }
 
     
+    /* clip path generator used from https://bennettfeely.com/clippy/ */
  #experience {
         min-height: 100vh;
-        background: cover;
         background-color:#949AA6;
         clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 100%, 80% 100%, 20% 100%, 0 100%, 0% 20%);
     }
@@ -221,7 +217,6 @@ background-color: #1F1927;
 
 #education {
         min-height: 100vh;
-        background: cover;
         background-color:#1F1927; 
         clip-path: polygon(0 0, 100% 0, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
     }
@@ -300,7 +295,7 @@ background-color: #1F1927;
        border-radius: 5px;
        border: 1px solid white;
    }
-
+   /* Inspiration for contact form taken from https://www.youtube.com/watch?v=s6rF1Josk9M */
    .contact-form .submit-btn:hover {
     letter-spacing: 3px;
     background-color:#383842;
