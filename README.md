@@ -71,7 +71,7 @@ I used Github Pages to deploy my website. The process was as follows:
 The gh-pages link: https://josiekiwi.github.io/portfolio-project-one/public/
 
 
-### acknowledgements
+### Acknowledgements
 
 - **Bootstrap** - a basic template was taken from https://getbootstrap.com/docs/3.3/getting-started/
 - **Google Fonts** - For the font I used 
