@@ -70,3 +70,18 @@ I used Github Pages to deploy my website. The process was as follows:
 
 The gh-pages link: https://josiekiwi.github.io/portfolio-project-one/public/
 
+
+### acknowledgements
+
+- **Bootstrap** - a basic template was taken from https://getbootstrap.com/docs/3.3/getting-started/
+- **Google Fonts** - For the font I used 
+- **Font Awesome** - For the icons
+- **Form Spree** - For thbe contact form API
+- **Unsplash** - For the background image found at www.unsplash.com
+- **Navigation Bar Tutorial** - For the navigation bar, inspiration was taken from https://www.youtube.com/watch?v=ZhTnOp-FpE0&t=617s 
+- **Clip path generator** - 
+- **Gradient Generator** - Gradient generator was used from https://cssgradient.io/
+- **Animation Generator** - Animation Generator was used from https://webcode.tools/generators/css/keyframe-animation
+- **Clip Path Generator** - clip path generator used from https://bennettfeely.com/clippy/
+- **Contact Form Tutorial** - Inspiration for contact form taken from https://www.youtube.com/watch?v=s6rF1Josk9M
+
